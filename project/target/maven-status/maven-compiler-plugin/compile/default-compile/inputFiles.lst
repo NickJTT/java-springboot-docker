@@ -1,0 +1,6 @@
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/Main.java
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/projects/controllers/ProjectController.java
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/projects/entities/Project.java
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/projects/exceptions/ProjectNotFoundException.java
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/projects/repositories/ProjectRepository.java
+/Users/user/Projects/java-springboot-docker/project/src/main/java/com/project/projects/services/ProjectService.java
