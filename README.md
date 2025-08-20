@@ -3,4 +3,4 @@ A simple Java Spring Boot project bootstrapped by Maven and using PostgreSQL wit
 
 # Starting the project
 docker-compose down -v
-docker-compose up --build
+docker compose -p java-springboot-docker up -d
